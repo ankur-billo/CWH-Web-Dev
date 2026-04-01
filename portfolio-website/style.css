@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    background: rgb(21, 27, 61);
+    color: white;
+    padding: 18px 0;;
+}
+.logo{
+    font-size: 25px;
+}
+nav ul{
+    display: flex;
+    gap: 10px;
+}
+nav ul li{
+    list-style-type: none;
+}
